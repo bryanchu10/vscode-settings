@@ -65,9 +65,6 @@
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "[vue]": {
-    "editor.defaultFormatter": "Vue.volar"
-  },
   "[scss]": {
     "editor.defaultFormatter": "stylelint.vscode-stylelint"
   },
@@ -90,7 +87,7 @@
   "workbench.preferredDarkColorTheme": "Vitesse Dark",
   "workbench.preferredLightColorTheme": "Vitesse Light",
   "workbench.productIconTheme": "icons-carbon",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
@@ -142,7 +139,6 @@
     "**/.pnpm": true,
     "**/.vscode": true,
     "**/.yarn": true,
-    "**/assets": true,
     "**/bower_components": true,
     "**/dist/**": true,
     "**/logs": true,

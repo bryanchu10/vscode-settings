@@ -40,9 +40,9 @@
     "vue.vscode-typescript-vue-plugin",
     "antfu.theme-vitesse",
     "hollowtree.vue-snippets",
-    "vue.volar",
     "antfu.where-am-i",
     "ms-vscode-remote.remote-wsl",
     "octref.vetur",
+    "vue.volar",
   ]
 }
